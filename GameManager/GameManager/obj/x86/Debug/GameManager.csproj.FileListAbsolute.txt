@@ -1,0 +1,8 @@
+C:\Users\ALLFAMILY\Documents\Visual Studio 2010\Projects\GameManager\GameManager\GameManager\bin\x86\Debug\GameManager.exe
+C:\Users\ALLFAMILY\Documents\Visual Studio 2010\Projects\GameManager\GameManager\GameManager\bin\x86\Debug\GameManager.pdb
+C:\Users\ALLFAMILY\Documents\Visual Studio 2010\Projects\GameManager\GameManager\GameManager\obj\x86\Debug\GameManager.csprojResolveAssemblyReference.cache
+C:\Users\ALLFAMILY\Documents\Visual Studio 2010\Projects\GameManager\GameManager\GameManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ALLFAMILY\Documents\Visual Studio 2010\Projects\GameManager\GameManager\GameManager\obj\x86\Debug\GameManager.exe
+C:\Users\ALLFAMILY\Documents\Visual Studio 2010\Projects\GameManager\GameManager\GameManager\obj\x86\Debug\GameManager.pdb
+C:\Users\ALLFAMILY\Documents\Visual Studio 2010\Projects\GameManager\GameManager\GameManager\bin\x86\Debug\Content\monkey.xnb
+C:\Users\ALLFAMILY\Documents\Visual Studio 2010\Projects\GameManager\GameManager\GameManager\bin\x86\Debug\Content\monkey2.xnb
